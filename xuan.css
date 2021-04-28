@@ -1,6 +1,27 @@
-body {
-    background-color: #efe8e7;
-}
 #xuanHeading {
+    background-color: #f0d9d7;
     color: #c08b89;
+    text-transform: uppercase;
+    font-family: 'Courier New', Courier, monospace;
+}
+.xuanparagraph p {
+    color: #b38f75;
+
+}
+#xuanTable {
+    text-align: center;
+    border: 0.5px solid black;
+    margin-left: auto;
+    margin-right: auto;
+    color: black;
+}
+.xuandiv {
+    background-color: #f0e8e4;;
+}
+.xuanphoto {
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  color: #b38f75;
 }
