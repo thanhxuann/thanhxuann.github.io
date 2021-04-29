@@ -1,0 +1,20 @@
+#kevinHeading {
+    background-color: #54ab97;
+    font-family: "Lucida Console", Lucida, monospace;
+    text-transform: Normal;
+    color:#ffb646
+    
+}
+
+.kevinDiv {
+    background-color: #a2edd1;
+}
+
+.kevinParagraph {
+    color: #63064d
+}
+
+#kevinTable {
+    text-align: center;
+    color: black;
+}
